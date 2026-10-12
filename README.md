@@ -2,7 +2,7 @@
 
 Which combination of calendar and weather variables best predicts how many bikes people rent each day? This project compares five linear regression models using validation-set, leave-one-out (LOOCV), 5-fold and 10-fold cross-validation.
 
-**Tools:** R (`lm`, `glm`, `boot::cv.glm`) · **Course:** Predictive Analytics, Stockton University · **Slides:** [`docs/Predictive_Analytics_Presentation.pptx`](docs/Predictive_Analytics_Presentation.pptx)
+**Tools:** R (`lm`, `glm`, `boot::cv.glm`) · **Course:** Predictive Analytics, Stockton University · **Slides:** [`docs/Bike_Share_Demand_Forecasting.pptx`](docs/Bike_Share_Demand_Forecasting.pptx)
 
 ## Key findings
 
